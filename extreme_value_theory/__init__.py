@@ -7,11 +7,8 @@
     File Name : __init__.py
     Author : shendu.ht
     Email : shendu.ht@outlook.com
-    Create Time : 2020/12/1 4:14 下午
+    Create Time : 2020/12/2 5:59 下午
     Description : description what the main function of this file
     Change Activity :
-            version0 : 2020/12/1 4:14 下午 by shendu.ht  init
+            version0 : 2020/12/2 5:59 下午 by shendu.ht  init
 """
-
-
-FILE_PATH = "./resources"
